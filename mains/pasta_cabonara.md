@@ -1,10 +1,10 @@
 Recipe for cabonara
 
 ## Ingredients:
-- **1** egg
-- **200 g** parmesan cheese
-- **300 g** pasta
-- **50 g** Guanciale
+- **2* eggs
+- **400 g** parmesan cheese
+- **600 g** pasta
+- **100 g** Guanciale
 - Salt and pepper
 
 ## Instructions:
